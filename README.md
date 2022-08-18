@@ -1,5 +1,5 @@
 ## AltSchool Assignment
-### This is mt submission for the JavaScript Assignment. I completed 2 of the 3 challenges as instructed.
+### This is m submission for the JavaScript Assignment. I completed 2 of the 3 challenges as instructed.
 
 Complete any two out of the three challenges. See below for details of each challenge.
 
